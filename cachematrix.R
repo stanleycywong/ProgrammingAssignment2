@@ -1,5 +1,5 @@
 ## There are two functions in this R script - makeCacheMatrix and cacheSolve
-## These functions will create a matrix object nad cache its inverse. If the matrix has not been updated, then the
+## These functions will create a matrix object and cache its inverse. If the matrix has not been updated, then the
 ## inverse will be cached.
 
 ## makeCacheMatrix function - to create a matrix and cache its inverse
